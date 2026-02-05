@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita",
+    "description": "Classic tomato and mozzarella",
+    "price": 12.99,
+    "image": "🍕"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "description": "Spicy pepperoni with cheese",
+    "price": 14.99,
+    "image": "🍕"
+  },
+  {
+    "id": 3,
+    "name": "Hawaiian",
+    "description": "Ham and pineapple",
+    "price": 15.99,
+    "image": "🍕"
+  },
+  {
+    "id": 4,
+    "name": "Veggie Supreme",
+    "description": "Fresh vegetables medley",
+    "price": 13.99,
+    "image": "🍕"
+  }
+]

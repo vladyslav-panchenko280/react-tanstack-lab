@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark-bg: #1a1a2e;
+  --color-dark-card: #16213e;
+  --color-dark-input: #1a1a2e;
+  --color-dark-border: #333;
+  --color-primary: #e94560;
+  --color-primary-light: #ff6b6b;
+}
+
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background: var(--color-dark-bg);
+  color: #eee;
+  min-height: 100vh;
+}
+
+#root {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem;
+}
